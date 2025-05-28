@@ -1,0 +1,29 @@
+/* custom-styles.css */
+.custom-datatable .p-datatable-thead > tr > th {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .custom-datatable .p-datatable-tbody > tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .custom-datatable .p-datatable-tbody > tr > td {
+    padding: 12px;
+    font-size: 14px;
+  }
+  
+  .custom-datatable .p-datatable .p-datatable-header {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .custom-datatable .p-paginator {
+    font-size: 12px;
+  }
+  
+  .custom-datatable .p-datatable .p-datatable-footer {
+    background-color: #f8f9fa;
+  }
+  
