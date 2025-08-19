@@ -1,0 +1,29 @@
+👕 Garment Store Inventory Management Web Application
+
+Designed by: Afjaluddin Shekh
+Technologies Used: React.js (Frontend)
+
+📌 Project Overview
+
+This is a web-based application for managing a Garment Store Inventory System. The application is built using React.js and includes all essential features needed to manage a garment store efficiently.
+
+🚀 Features
+
+Store Management – Overall management of the garment store system.
+
+Add New Stock – Add new products and stock to the store database.
+
+Available Stock – View and track current available stock.
+
+Payment Details – Store and manage customer payment information.
+
+Customer Invoice & Receipt – Generate printable invoices and receipts for purchases.
+
+Product Returns – Handle returned items and update stock accordingly.
+
+Figures & Reports – Display reports such as total sales, stock levels, and other business metrics.
+
+🛠️ Tech Stack
+
+Frontend: React.js
+Backend : Net Core github Url is  https://github.com/Afjaluddin24/Apro_Dhandho_Inventory_Garment
